@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-n5er4z.peiiii.com/sitemap.xml
